@@ -13,7 +13,7 @@ Imagine you're a major automotive manufacturer working on a new electric vehicle
 * **Version Control:** If multiple teams are working on different parts, Teamcenter ensures that everyone is using the latest version of the design.
 * **Collaboration:** Designers, engineers, and other stakeholders can collaborate on the design in real-time, discussing changes and providing feedback.
 
-**Engineering Phase:**
+**Development Phase:**
 * **BOM Management:** Teamcenter can create and manage the Bill of Materials (BOM), which lists all the components required to build the car. 
 * **Requirements Management:** Engineers can define and track requirements for the car, ensuring that it meets specific performance, safety, and regulatory standards.
 * **Change Management:** If design changes are necessary, Teamcenter can help manage the process, ensuring that all affected teams are notified and updated.
