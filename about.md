@@ -1,7 +1,9 @@
-I studied engineering for my bachelor's degree. I taught myself Python from edx and took DevOps classes, which helped me land a position at my first organization. There, I was fortunate enough to work on domains like e-commerce and Android apps and even contributed to the development of PHP apps and containerization, which polished my technical skills. After that, I joined my current organization, which focuses on core banking projects. Here, my previous manager was a great mentor. Noticing my zeal to learn, he encouraged me to learn Kubernetes and Ansible. For some time, I was the single point of contact, an opportunity I will be forever grateful for. I learned and achieved a lot in this job. This role further enhanced my skill set and clarified my career goals.
+I studied engineering for my bachelor's degree. I taught myself Python from edx and took DevOps classes, which helped me land a position at my first organization. There, I was fortunate enough to work on domains like e-commerce and even contributed to backend devlopment, which polished my technical skills. After that, I joined my current organization, which focuses on core banking projects. Here, my previous manager was a great mentor. Noticing my zeal to learn, he encouraged me to learn Kubernetes and Ansible. For some time, I was the single point of contact, an opportunity I will be forever grateful for. I learned and achieved a lot in this job. This role further enhanced my skill set and clarified my career goals.
 
 I recently came across an amazing opportunity that aligns with my career goals and expertise, so I applied and am exploring this opportunity."
 
+## OR
+> "Ive a Bachelor's degree in Engineering and have been working in my current organization for nearly three years, focusing on core banking domain. My responsibilities include overseeing deployments, managing pipelines, Kubernetes, automation, monitoring, and conducting R&D. During my time here, I've learned and achieved a lot in this job, for which I am deeply grateful. I am confident that my skills and expertise will allow me to contribute to your organization success."
 
 
 your career goals seem to include:
