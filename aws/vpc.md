@@ -6,11 +6,11 @@
 	- Public Subnet
 	- Private Subnet
 
-
 #### Public subnet
 	- create `route table`
 	- associte `route table` with subnet
-	- create a public route for internet access `0.0.0.0/0`
+	- Create `Internet Gateway`
+	- create a public route for internet access with Destination `0.0.0.0` and Target as `Internet Gateway`
 
 #### Private Subet (For Internet Access)
 	- Create `route table` in `Private Subet`
@@ -57,4 +57,37 @@
 - **Security Groups**: For controlling access to specific instances.
 - **NACLs**: For controlling access to entire subnets or for an additional layer of security.
 
-Let me know if you'd like deeper examples or scenarios!
+### **VPC Peering vs. Transit Gateway**
+
+#### **VPC Peering**
+- **What it is**: Direct connection between two VPCs allowing private IP communication.
+- **Use cases**: Simple, point-to-point connections between VPCs.
+- **Advantages**: Low cost, low-latency, easy for small environments.
+- **Limitations**: No transitive routing (VPC A → B → C is not possible), scalability challenges as more VPCs are added.
+- **Example**: Connecting a **dev** and **prod** VPC in the same region.
+
+---
+
+#### **Transit Gateway**
+- **What it is**: Centralized hub to connect multiple VPCs and on-premises networks.
+- **Use cases**: Large, complex architectures needing centralized routing and transitive connectivity.
+- **Advantages**: Scalable, supports transitive routing, multi-region support, simplified management.
+- **Limitations**: Higher cost, more complex than VPC Peering.
+- **Example**: Connecting multiple VPCs across regions and on-premises networks.
+
+---
+
+### **Key Differences**
+| **Aspect**               | **VPC Peering**                              | **Transit Gateway**                             |
+|--------------------------|----------------------------------------------|-------------------------------------------------|
+| **Routing**               | Manual, direct between VPCs.                 | Centralized, transitive routing.                |
+| **Scalability**           | Limited, requires individual connections.    | Highly scalable, ideal for large networks.      |
+| **Cost**                  | Lower cost for simple setups.                | Higher cost, but better for complex environments.|
+| **Management**            | Simple, but complex with many VPCs.          | Easier for large, multi-VPC networks.           |
+
+---
+
+### **When to Use Each**
+- **VPC Peering**: Small-scale, direct VPC-to-VPC connections.
+- **Transit Gateway**: Large-scale, multi-VPC or hybrid architectures requiring centralized routing.
+
