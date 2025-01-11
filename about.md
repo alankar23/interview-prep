@@ -1,3 +1,11 @@
+## V2
+Good Morning/Afternoon, 
+Im Alankar, working as DevOps engineer with 4+ years of experience specializing in automating and streamlining development operations. My journey started as a backend engineer, but I became fascinated with automation and the potential to bridge the gap between development and operations teams.
+In my current role, I've led the implementation of CI/CD pipelines that reduced our deployment time by 70% using tools like Jenkins, Docker, and Kubernetes. I'm particularly proud of architecting a zero-downtime deployment strategy that helped us achieve 99.99% uptime across our production environments.
+I'm passionate about infrastructure as code and have extensive experience with tools like Terraform and Ansible. What really drives me is finding ways to improve system reliability while enabling development teams to move faster. I regularly contribute to the DevOps community through mentoring and speaking at local tech meetups.
+I'm looking to bring this experience to a role where I can continue to innovate and help organizations embrace modern DevOps practices
+
+## V1
 I studied engineering for my bachelor's degree. I taught myself Python from edx and took DevOps classes, which helped me land a position at my first organization. There, I was fortunate enough to work on domains like e-commerce and even contributed to backend devlopment, which polished my technical skills. After that, I joined my current organization, which focuses on core banking projects. Here, my previous manager was a great mentor. Noticing my zeal to learn, he encouraged me to learn Kubernetes and Ansible. For some time, I was the single point of contact, an opportunity I will be forever grateful for. I learned and achieved a lot in this job. This role further enhanced my skill set and clarified my career goals.
 
 I recently came across an amazing opportunity that aligns with my career goals and expertise, so I applied and am exploring this opportunity."
