@@ -1,0 +1,26 @@
+- hosts: FOO
+  become: true
+  tasks:
+
+  - name: copy file
+    copy:
+      src: ./fileToCopy.txt
+      dest: /home/user/somedir/fileToCopy
+      user: user
+      group: group
+      mode: 744
+  
+  - name: install docker
+    package:
+      name:
+        - docker
+      state: latest
+      update_cache: true
+      notify:
+        - Start docker
+
+  handlers:
+    - name: Start docker
+      service:
+        name: docker
+        state: start
