@@ -1,3 +1,8 @@
+# Headless Service
+
+[Stackoverflow Defination](https://stackoverflow.com/a/67160106/9819856)
+
+
 ### **Headless Service vs. Normal Service in Kubernetes**  
 
 | Feature          | **Headless Service** 🏗️ | **Normal Service** 🌐 |
