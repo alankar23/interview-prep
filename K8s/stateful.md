@@ -1,3 +1,7 @@
+# Stateful Sets
+
+StatefulSets are designed for stateful applications that require unique network identities and stable, persistent storage. They maintain a stable identity for each Pod and ensure ordered scaling, making them suitable for databases and other stateful workloads.
+
 ### **Key Differences Between StatefulSet and Deployment in Kubernetes**  
 
 | Feature          | **StatefulSet** 🏛️ | **Deployment** 🚀 |
