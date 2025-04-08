@@ -1,3 +1,11 @@
+## V3-20205
+`I'm Jon Doe, and I've been working as a DevOps Engineer at iDigiC for a little over 3 years now.
+Throughout my career, I've been a team player and a strong problem solver. I focus on analyzing situations thoroughly and paying close attention to detail.
+So far, I've worked with product-based startups, which have provided me with various learning opportunities—like starting projects from scratch, developing internal automation tools, and maintaining self-managed instances.
+Overall, it's been a great learning experience, and I believe it has prepared me well to contribute to your organization's success`
+
+
+
 ## V2
 Good Morning/Afternoon, 
 Im Alankar, working as DevOps engineer with 4+ years of experience specializing in automating and streamlining development operations. My journey started as a backend engineer, but I became fascinated with automation and the potential to bridge the gap between development and operations teams.
