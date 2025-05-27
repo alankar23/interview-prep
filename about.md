@@ -1,3 +1,10 @@
+## V4-20205
+- My name is Alankar, and I’m currently working as a DevOps engineer at iDigicloud Technologies. I have a total of 4.6 years of experience in this role.
+- Over the years, I’ve built and maintained systems using CI/CD tools, monitoring stacks, containerization and orchestration platforms, Infrastructure as Code, scripting languages, and cloud technologies.
+- I enjoy solving complex problems—whether it’s reducing build times, resolving deployment failures, or automating manual tasks using Terraform or Python. I’ve consistently worked closely with development teams to identify bottlenecks and deliver fast, stable solutions.
+- I’ve received multiple recognitions for my work, both in my current and previous organizations. I thrive in fast-paced environments, adapt quickly to change, and bring a strong problem-solving mindset to my work.
+- If given the opportunity, I’ll bring the same energy, ownership, and focus to your team—and aim to deliver tangible value from the very beginning.
+
 ## V3-20205
 `I'm Jon Doe, and I've been working as a DevOps Engineer at iDigiC for a little over 3 years now.
 Throughout my career, I've been a team player and a strong problem solver. I focus on analyzing situations thoroughly and paying close attention to detail.
