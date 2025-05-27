@@ -1,4 +1,5 @@
 ## V4-20205
+- Good afternoon, and thankyou for giving me this opportunity.
 - My name is Alankar, and I’m currently working as a DevOps engineer at iDigicloud Technologies. I have a total of 4.6 years of experience in this role.
 - Over the years, I’ve built and maintained systems using CI/CD tools, monitoring stacks, containerization and orchestration platforms, Infrastructure as Code, scripting languages, and cloud technologies.
 - I enjoy solving complex problems—whether it’s reducing build times, resolving deployment failures, or automating manual tasks using Terraform or Python. I’ve consistently worked closely with development teams to identify bottlenecks and deliver fast, stable solutions.
